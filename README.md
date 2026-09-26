@@ -1,9 +1,8 @@
 <h1 align="center">Привет, я Ka01nq 👋</h1>
 <h3 align="center">Исследователь безопасности · Разработчик</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ka01nq&label=Profile%20views&color=0e75b6&style=flat" alt="ka01nq" />
-</p>
+
+  <img src="https://raw.githubusercontent.com/Ka01nq/Ka01nq/main/Screenshot_20260917-180200.jpg" />
 
 ---
 
