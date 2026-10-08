@@ -17,7 +17,6 @@
 ## ⚡ Кратко о себе
 
 - 🔍 Специализация: **пентестинг**, **исследование уязвимостей**, **разработка инструментов**
-- 🐧 Основная среда: **Android + Arch Linux** (через proot-distro)
 - ☕ Продуктивность растёт ночью — и особенно под утро
 
 ---
@@ -36,16 +35,6 @@
   </a>
   <a href="https://hackerone.com/ka01nq" target="_blank">
     <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/>
-  </a>
-</p>
-
----
-
-## 🏆 Достижения GitHub
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ka01nq" alt="ka01nq" />
   </a>
 </p>
 
